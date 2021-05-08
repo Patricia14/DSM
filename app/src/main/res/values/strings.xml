@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guia12AppContentProvider</string>
+    <string name="carnet">Carnet</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="agregar">Agregar</string>
+</resources>
